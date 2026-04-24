@@ -4,7 +4,7 @@ Este projeto consiste no desenvolvimento de um dashboard interativo no **Power B
 
 ## 📊 Visualização do Dashboard
 
-![Dashboard](Captura de tela 2026-04-19 200242.png)
+![Dashboard](Captura%20de%20tela%202026-04-19%20200242.png))
 
 ## 🎯 O que este dashboard analisa
 
